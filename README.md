@@ -37,6 +37,7 @@
 - ⚙️ Strong Backend Architecture with **Java, Go, PHP, & Python**.
 - 📱 Cross-platform Mobile Development expert with **Flutter**.
 - 🌐 Modern Frontend Engineering using **React & Next.js**.
+- ☁️ Experienced with **Cloud Infrastructure (GCP)** and system monitoring using **Prometheus & Grafana**.
 - 🏗️ Deeply interested in **System Design, Clean Architecture, and Scalable Applications**.
 - 🤖 Exploring the forefront of **AI Integration and Business Automation**.
 
@@ -59,8 +60,8 @@
       <img src="https://skillicons.dev/icons?i=flutter,kotlin,mysql,postgres,mongodb,redis&perline=3" />
     </td>
     <td align="center" width="25%">
-      <b>DevOps & Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman&perline=3" />
+      <b>DevOps, Cloud & Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=gcp,docker,grafana,prometheus,linux,git,github,postman&perline=4" />
     </td>
   </tr>
 </table>
@@ -105,6 +106,7 @@
 ```text
 Backend Development   ████████████████████ 100%
 API Development       ████████████████████ 100%
+Cloud & DevOps        ███████████████████░ 95%
 Database Design       ███████████████████░ 95%
 System Architecture   ██████████████████░░ 90%
 Flutter Development   ██████████████████░░ 90%
@@ -112,10 +114,9 @@ React Development     ██████████████████░�
 ```
 
 
-
 ## 🌱 Currently Learning
 
-`Advanced System Design` • `AI Agents & Automation` • `Distributed Systems` • `Event-Driven Architecture` • `Cloud Infrastructure`
+`Advanced System Design` • `AI Agents & Automation` • `Distributed Systems` • `Event-Driven Architecture`
 
 ---
 
