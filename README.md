@@ -111,28 +111,7 @@ Flutter Development   ██████████████████░�
 React Development     ██████████████████░░ 90%
 ```
 
----
 
-## 📈 GitHub Statistics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovinkendrico&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovinkendrico&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovinkendrico&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jovinkendrico&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🌱 Currently Learning
 
